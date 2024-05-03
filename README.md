@@ -5,8 +5,7 @@
 </h1>
 
 <div align="center">
-   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src=""/>
+   ![gif](https://github.com/metalbear1/metalbear1/assets/141075635/a4a7a23f-090f-4c3f-9e58-671e8679208e)
 </div>
 
 <h1 align="center">
