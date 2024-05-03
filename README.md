@@ -98,13 +98,13 @@ export default {
       target="_blank"
     >
       <img
-        align="center"
+        align= "center"
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         alt="whatsApp"
       />
     </a>
     <a
-      align:"center"
+      align="center"
       href="https://www.instagram.com/caco02/"
       target="_blank"
     >
@@ -112,7 +112,7 @@ export default {
     alt="Instagram pessoal">
     </a>
     <a
-      align:"center"
+      align= "center"
       href="https://www.instagram.com/metalbear.13/"
       target="_blank"
     >
