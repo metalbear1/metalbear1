@@ -108,16 +108,19 @@ export default {
       href="https://www.instagram.com/caco02/"
       target="_blank"
     >
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    alt="Instagram pessoal">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram pessoal">
     </a>
     <a
-      align="center"
       href="https://www.instagram.com/metalbear.13/"
       target="_blank"
-    >
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    alt="Instagram hobby">
+      >
+    <img 
+      align="center"
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram hobby">
     </a>
   </p>
 </section>
