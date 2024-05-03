@@ -18,11 +18,20 @@ export default {
   linkedin: 'https://www.linkedin.com/in/marco-ant%C3%B4nio-silveira-soares-278333142/',
   contato: '(35) 99700-8867',
   description: {
-    myProfile: `Olá, prazer, meu nome é Marco Antônio, mas alguns me conhecem como MetalBear ou Caco. Comecei a estudar programação recentemente e tenho me encontrado cada vez mais no mundo dos códigos, procurando neste mundo da tecnologia uma nova área de desafios para me lançar.
+    myProfile: `Olá, prazer, meu nome é Marco Antônio, mas alguns me conhecem como MetalBear ou Caco. Comecei a estudar
+programação recentemente e tenho me encontrado cada vez mais no mundo dos códigos, procurando neste mundo da tecnologia
+uma nova área de desafios para me lançar.
 
-    Tenho 29 anos e trabalho já a 12 anos em minhaq própria oficina mecânica, além de trabalhar a 6 anos como analista de games para o site [Gamerview](www.gamerview.com.br), onde criei uma série de artigos próprios para jogos de horror. ALém de já ter sido premiado por empresas como Sony, Konami, Bethesda e até mesmo ter minha nota de Starfield no telão da TGA2023.`,
-    myObjective: `COnseguir meu primeiro emprego na área de tecnologia, dominar amplamente as habilidades de back e front dev e aprender sobre cyber-segurança. Sempre em busca de ser uma versão melhor do que fui ontem.`,
+    Tenho 29 anos e trabalho já a 12 anos em minhaq própria oficina mecânica, além de trabalhar a 6 anos como analista
+de games para o site [Gamerview](www.gamerview.com.br), onde criei uma série de artigos próprios para jogos de horror.
+Além de já ter sido premiado por empresas como Sony, Konami, Bethesda e até mesmo ter minha nota de Starfield no telão
+da TGA2023.`,
+
+    myObjective: `COnseguir meu primeiro emprego na área de tecnologia, dominar amplamente as habilidades de back
+e front dev,
+além de aprender sobre cyber-segurança. Sempre em busca de ser uma versão melhor do que fui ontem.`,
   },
+
   skills: {
     languages: [
       'Javascript', 'Java',
