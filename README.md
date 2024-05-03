@@ -4,10 +4,6 @@
   Hello World 🩻
 </h1>
 
-<div align="center">
-   ![gif](https://github.com/metalbear1/metalbear1/assets/141075635/a4a7a23f-090f-4c3f-9e58-671e8679208e)
-</div>
-
 <h1 align="center">
   About Me 🐻
 </h1>
@@ -108,6 +104,7 @@ export default {
       />
     </a>
     <a
+      align:"center"
       href="https://www.instagram.com/caco02/"
       target="_blank"
     >
@@ -115,6 +112,7 @@ export default {
     alt="Instagram pessoal">
     </a>
     <a
+      align:"center"
       href="https://www.instagram.com/metalbear.13/"
       target="_blank"
     >
