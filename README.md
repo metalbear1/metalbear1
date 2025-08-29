@@ -15,8 +15,8 @@ export default {
   profession: 'Mecânico automotivo, analista de games e desenvolvedor back-end com ambição de me tornar Full Stack!',
   hobbies: 'Gunpla (modelagem de robôs)', 'Cinema', 'Música', 'Games', 'livros e mangas',
   email: 'marcofrontdev@gmail.com', 'metalbearcontato@gmail.com'],
-  linkedin: 'https://www.linkedin.com/in/marco-ant%C3%B4nio-silveira-soares-278333142/',
-  contato: '(35) 99700-8867',
+  linkedin: 'https://www.linkedin.com/in/marcoanton9406',
+  contato: '(35) 99110-7366',
   description: {
     myProfile: `Olá, prazer, meu nome é Marco Antônio, mas alguns me conhecem como MetalBear ou Caco. Comecei a estudar
 programação recentemente e tenho me encontrado cada vez mais no mundo dos códigos, procurando neste mundo da tecnologia
